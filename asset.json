@@ -1,0 +1,2982 @@
+[
+    {
+        "company_name": "Deloitte Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case, except Canberra)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting",
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "KPMG Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "3 to 8 weeks duration",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting",
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "PwC Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "EY Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "December to February",
+        "open_close_dates": "February to early May",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Commonwealth Bank (CBA)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "National Australia Bank (NAB)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Late November to February",
+        "open_close_dates": "Early July to early August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Westpac",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "December to February (10 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "ANZ",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Macquarie Group",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "July (Winter), Nov-Feb (Summer)",
+        "open_close_dates": "March-April (Winter), May-August (Summer)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "JPMorganChase Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "June-July (Winter), Nov-Feb (Summer)",
+        "open_close_dates": "Closes late August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Morgan Stanley",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "UBS Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Bank of America",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Rolling Intake (August to September)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Jefferies",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "10 weeks (Summer)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Jarden",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "4 weeks (Winter), 12 weeks (Summer)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading"
+        ]
+    },
+    {
+        "company_name": "Suncorp",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Brisbane",
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to early February (10 weeks)",
+        "open_close_dates": "August",
+        "visa_requirements": "Requires full working rights (case-by-case for internationals)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "AustralianSuper",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "December to February (12 weeks)",
+        "open_close_dates": "Opens June",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Aware Super",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Late November Start",
+        "open_close_dates": "Closes mid-September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "AMP",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Rabobank",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Optiver",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "10-12 weeks (Summer)",
+        "open_close_dates": "January onwards (rolling, closes early)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance"
+        ]
+    },
+    {
+        "company_name": "Citadel Securities",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "11 weeks (Summer)",
+        "open_close_dates": "January onwards (rolling, very early close)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "IMC",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "January to March (rolling)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Akuna Capital",
+        "internship_type": "Winter Internship",
+        "location": [
+            "Chicago",
+            "Singapore"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "Mid-May to early July (2-week blocks)",
+        "open_close_dates": "Closes early April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Jane Street",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Hong Kong"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "November to April (10-12 weeks)",
+        "open_close_dates": "Rolling Intake (Early in the year)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Susquehanna International Group (SIG)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "February to April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Tibra",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Google AU",
+        "internship_type": "Software Engineering Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Rolling Intake (opens February/March)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Amazon Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "10-12 weeks",
+        "open_close_dates": "Rolling Intake (July to September)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Atlassian Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Late November to Late February (12 weeks)",
+        "open_close_dates": "February to April (early recruitment cycle)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Canva",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "April to May (closes early May)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "TikTok Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "November or December Start",
+        "open_close_dates": "January to March (rolling, early cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Xero Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane"
+        ],
+        "category": "Technology",
+        "program_dates": "10-12 weeks (Summer)",
+        "open_close_dates": "Rolling Intake (opens July)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Microsoft Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Adobe AU",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "12-24 weeks",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Telstra",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February (12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case, Technical roles only)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Optus",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "nbn",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "NTT DATA",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (6 weeks)",
+        "open_close_dates": "Mid-April to mid-May",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "IBM Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Oracle Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "DXC Technology",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Fujitsu",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Siemens Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Honeywell Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "McKinsey & Company",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Closes late March",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "Boston Consulting Group (BCG)",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth",
+            "Canberra"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Closes early June",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "Bain & Company",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Closes late March or late August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Kearney",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "6 to 10 weeks duration",
+        "open_close_dates": "February to March",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "L.E.K. Consulting",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Closes mid-September",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Oliver Wyman",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Closes late March",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Roland Berger",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Flexible duration",
+        "open_close_dates": "February to March",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "FTI Consulting",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "February to March",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Capgemini Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Accenture Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "BDO Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "RSM Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Fordham",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4 weeks duration",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Urbis",
+        "internship_type": "Student Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Year-long flexible program",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Coles",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "November to February",
+        "open_close_dates": "Late March to late April",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Woolworths Group",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Procter & Gamble (P&G)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Late November to late January",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Unilever",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "L'Oréal Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Mid-January Start",
+        "open_close_dates": "Closes late September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "PepsiCo",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "10 to 12 weeks",
+        "open_close_dates": "Late August to late October",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Nestlé",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Mondelez International",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Mars",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Retail & FMCG",
+        "program_dates": "10-12 weeks",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "BHP",
+        "internship_type": "Intern Program",
+        "location": [
+            "Perth",
+            "Brisbane",
+            "Adelaide"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "10-12 weeks (November to February)",
+        "open_close_dates": "June to July",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Rio Tinto",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Follows university calendar",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Glencore",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "April to May",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Woodside Energy",
+        "internship_type": "Summer Vacation Program",
+        "location": [
+            "Perth"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Opens August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Chevron",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Perth"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Shell",
+        "internship_type": "Gourami Business Challenge / Internship",
+        "location": [
+            "Perth",
+            "Brisbane"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Santos",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Origin Energy",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "category": "Mining & Energy",
+        "program_dates": "Mid-November to February (12 weeks)",
+        "open_close_dates": "Closes mid-October",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "GHD",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Consulting",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "AECOM",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February (12 weeks)",
+        "open_close_dates": "Opens July",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Consulting",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Aurecon",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July (Career Expos)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Consulting",
+            "Data & Analytics",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "WSP",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Jacobs",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering",
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "John Holland",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Late April to early June",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Lendlease",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Engineering & Property",
+        "program_dates": "Mid-November to February (12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Mirvac",
+        "internship_type": "Internship Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "category": "Engineering & Property",
+        "program_dates": "11-month part-time (February to December)",
+        "open_close_dates": "Closes late August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Stockland",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "category": "Engineering & Property",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "QBE Insurance",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Insurance",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Allianz Australia",
+        "internship_type": "Semester Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Insurance",
+        "program_dates": "May to November (6-month Semester Internship)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "IAG",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Insurance",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Medibank",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Insurance",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Bupa",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Insurance",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Department of the Treasury",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Canberra"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "Rolling placements throughout the year",
+        "open_close_dates": "April to May",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Reserve Bank of Australia (RBA)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "December to February",
+        "open_close_dates": "Early July to early August",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Australian Taxation Office (ATO)",
+        "internship_type": "University Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "Year-round (UPEP) or February Start (Grad)",
+        "open_close_dates": "Early May to early June",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Tax",
+            "Data & Analytics",
+            "Software Engineering",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Australian Prudential Regulation Authority (APRA)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Risk & Compliance",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Australian Bureau of Statistics (ABS)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Canberra"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Qantas",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Aviation & Logistics",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "BAE Systems Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Melbourne"
+        ],
+        "category": "Aerospace & Defense",
+        "program_dates": "Late November Start",
+        "open_close_dates": "Opens November (Rolling Intake)",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Engineering",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Lockheed Martin Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Adelaide",
+            "Canberra"
+        ],
+        "category": "Aerospace & Defense",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Engineering",
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Apple Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "MinterEllison",
+        "internship_type": "Summer Clerkship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Mid-June to mid-July",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Ashurst",
+        "internship_type": "Seasonal Clerkship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth",
+            "Canberra"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "Jan-Feb (Summer), April-May (Autumn)",
+        "open_close_dates": "Mid-July to early August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Allens",
+        "internship_type": "Summer Clerkship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Early June to mid-August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Vanguard",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Visa Australia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology & Finance",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Future Fund",
+        "internship_type": "Future Investors Program / Corporate Functions",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "4 weeks (June to July Winter)",
+        "open_close_dates": "February to March",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Grant Thornton",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Adelaide",
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth",
+            "Sydney"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4 to 6 weeks",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Toll Group",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Aviation & Logistics",
+        "program_dates": "10 weeks (Summer)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Linfox",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane"
+        ],
+        "category": "Aviation & Logistics",
+        "program_dates": "December to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "King & Wood Mallesons",
+        "internship_type": "Summer Clerkship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth",
+            "Canberra"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "Late November to February (varies by office)",
+        "open_close_dates": "June to August (State guidelines)",
+        "visa_requirements": "Requires full working rights (Canberra requires Citizenship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Herbert Smith Freehills",
+        "internship_type": "Vacation Clerkship",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "Summer (Nov to Jan) and Winter (Jun to Jul)",
+        "open_close_dates": "June to August (State guidelines)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Clayton Utz",
+        "internship_type": "Summer Clerk Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Perth",
+            "Canberra"
+        ],
+        "category": "Law & Commerce",
+        "program_dates": "10 weeks (November to February)",
+        "open_close_dates": "June to August (State guidelines)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "VivCourt Trading",
+        "internship_type": "Summer Trading Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "8 to 10 weeks (Late November to February)",
+        "open_close_dates": "February to April (Early Recruitment)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Trading",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "Flow Traders",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Hong Kong",
+            "Singapore"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "10 weeks (Summer)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Eclipse Trading",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "10 weeks (Summer)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Trading",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "O2 Management Holdings",
+        "internship_type": "Asset Management Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "April to May",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Sportsbet",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Gaming & Entertainment",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Tabcorp",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane"
+        ],
+        "category": "Gaming & Entertainment",
+        "program_dates": "Mid-November to February (10-12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Entain Australia & New Zealand (Ladbrokes / Neds)",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Brisbane",
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Gaming & Entertainment",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Aristocrat",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Gaming & Entertainment",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "The Star Entertainment Group",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney",
+            "Brisbane",
+            "Gold Coast"
+        ],
+        "category": "Gaming & Entertainment",
+        "program_dates": "December to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Goldman Sachs",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February (9 to 11 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Deutsche Bank",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Blackstone",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "April to June (Early Cycle)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Citi",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Barclays",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Rothschild & Co",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Lazard",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Moelis & Company",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Gresham Partners",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Greenhill & Co. (A Mizuho Company)",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking"
+        ]
+    },
+    {
+        "company_name": "Mizuho Bank",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Maven Securities",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "November to February (10 weeks)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "DRW",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Jump Trading",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Five Rings",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Quantitative Trading",
+        "program_dates": "November to February (10 weeks)",
+        "open_close_dates": "Rolling Intake (Early cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Trading",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "IFM Investors",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "UniSuper",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "BlackRock",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "State Street",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "QIC",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Brisbane",
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Fidelity International",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Airwallex",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Block",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Risk & Compliance",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Seek",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "REA Group",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "BNP Paribas",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Nomura",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading"
+        ]
+    },
+    {
+        "company_name": "RBC Capital Markets",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading"
+        ]
+    },
+    {
+        "company_name": "Barrenjoey",
+        "internship_type": "Summer Analyst Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Finance & Banking",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "June to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Investment Banking",
+            "Trading",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "SW Australia",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4-8 weeks (Summer or Winter)",
+        "open_close_dates": "March to April (Primary cycle)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "KordaMentha",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Pitcher Partners",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth",
+            "Adelaide"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4-8 weeks (Summer or Winter)",
+        "open_close_dates": "March to April & July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "McGrathNicol",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth",
+            "Canberra"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4 weeks (Summer or Winter)",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "The Trade Desk",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "July to September",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Trading",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Salesforce",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "SafetyCulture",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Cisco",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February (10-12 weeks)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Consulting",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "IRESS",
+        "internship_type": "Summer Internship / Graduate Program",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "December to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Stripe Australia",
+        "internship_type": "Software Engineer Intern",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Technology",
+        "program_dates": "November to February",
+        "open_close_dates": "Rolling Intake (closes early July)",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "Wesfarmers",
+        "internship_type": "Summer Vacation Program",
+        "location": [
+            "Perth",
+            "Melbourne"
+        ],
+        "category": "Corporate Finance & Strategy",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Finance",
+            "Data & Analytics",
+            "Business Development"
+        ]
+    },
+    {
+        "company_name": "CSL Limited",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Corporate Finance & Healthcare",
+        "program_dates": "10-12 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Finance",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Transurban",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Corporate Finance & Infrastructure",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Finance",
+            "Data & Analytics",
+            "Engineering"
+        ]
+    },
+    {
+        "company_name": "Nous Group",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Canberra",
+            "Perth"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Strategy& (Part of PwC)",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Sydney",
+            "Melbourne",
+            "Canberra"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "February to March (Often an early cycle)",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "EY Port Jackson Partners",
+        "internship_type": "Summer Vacationer Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Management Consulting",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "Late February to late March",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "Findex / Crowe",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4-8 weeks (Summer)",
+        "open_close_dates": "March to April & July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Corporate Finance",
+            "Consulting"
+        ]
+    },
+    {
+        "company_name": "William Buck",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Adelaide"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "4-6 weeks (Summer)",
+        "open_close_dates": "March to April",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Corporate Finance"
+        ]
+    },
+    {
+        "company_name": "HLB Mann Judd",
+        "internship_type": "Vacationer Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth",
+            "Adelaide"
+        ],
+        "category": "Accounting & Advisory",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "March to May",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Audit & Assurance",
+            "Tax",
+            "Consulting"
+        ]
+    }
+]
