@@ -49,10 +49,12 @@ const processed = data.map(item => {
 
   // --- Visa status ---
   const visaStr = item.visa_requirements.toLowerCase();
-  const visa_status = (
-    visaStr.includes('requires full working rights') ||
-    visaStr.includes('australian citizen')
-  ) ? 'domestic_only' : 'international_eligible';
+  let visa_status = 'international_eligible';
+  if (visaStr === 'australian citizen' || visaStr.includes('security clearance required')) {
+    visa_status = 'citizen_only';
+  } else if (visaStr.includes('requires full working rights') || visaStr.includes('australian citizen or permanent resident')) {
+    visa_status = 'domestic_only';
+  }
 
   // Extract parenthetical qualifier e.g. "(case-by-case, except Canberra)"
   const tagMatch = item.visa_requirements.match(/\(([^)]+)\)/);

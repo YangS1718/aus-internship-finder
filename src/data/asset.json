@@ -2008,7 +2008,7 @@
     "program_dates": "Rolling placements throughout the year",
     "open_close_dates": "April to May",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Risk & Compliance",
@@ -2026,7 +2026,7 @@
     "program_dates": "December to February",
     "open_close_dates": "Early July to early August",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Risk & Compliance",
@@ -2050,7 +2050,7 @@
     "program_dates": "Year-round (UPEP) or February Start (Grad)",
     "open_close_dates": "Early May to early June",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Tax",
@@ -2070,7 +2070,7 @@
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Risk & Compliance",
@@ -2093,7 +2093,7 @@
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Data & Analytics",
@@ -2111,7 +2111,7 @@
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Engineering",
@@ -2151,7 +2151,7 @@
     "program_dates": "Late November Start",
     "open_close_dates": "Opens November (Rolling Intake)",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Engineering",
@@ -2170,7 +2170,7 @@
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Engineering",
@@ -2314,7 +2314,7 @@
     "program_dates": "4 weeks (June to July Winter)",
     "open_close_dates": "February to March",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Investment Banking",
@@ -3976,7 +3976,7 @@
     "program_dates": "12 weeks (Late November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen (Security Clearance Required)",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [
       "Security Clearance Required"
     ],
@@ -3999,7 +3999,7 @@
     "program_dates": "12 weeks (Late November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen (Security Clearance Required)",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [
       "Security Clearance Required"
     ],
@@ -4019,7 +4019,7 @@
     "program_dates": "12 weeks (Late November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Australian Citizen (Security Clearance Required)",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [
       "Security Clearance Required"
     ],
@@ -4213,7 +4213,7 @@
     "program_dates": "12 weeks (Late November to February)",
     "open_close_dates": "March to May (Early Intake due to clearances)",
     "visa_requirements": "Australian Citizen (Security Clearance Required)",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [
       "Security Clearance Required"
     ],
@@ -4365,7 +4365,7 @@
     "program_dates": "12 weeks (Late November to February)",
     "open_close_dates": "May to July",
     "visa_requirements": "Australian Citizen",
-    "visa_status": "domestic_only",
+    "visa_status": "citizen_only",
     "visa_tags": [],
     "roles": [
       "Data & Analytics",

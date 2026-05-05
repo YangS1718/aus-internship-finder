@@ -208,6 +208,7 @@ function App() {
             onChange={handleFilterChange}
           >
             <option value="">Select Visa Status</option>
+            <option value="citizen_only">Australian Citizen Only</option>
             <option value="domestic_only">Domestic / PR / Citizen</option>
             <option value="international_eligible">International Student</option>
           </select>
@@ -262,7 +263,9 @@ function App() {
                   <span className="info-value">
                     {program.visa_status === 'international_eligible' 
                       ? 'International Eligible' 
-                      : 'Domestic Only'}
+                      : program.visa_status === 'citizen_only'
+                        ? 'Australian Citizen Only'
+                        : 'Domestic / PR / Citizen'}
                   </span>
                 </div>
               </div>
