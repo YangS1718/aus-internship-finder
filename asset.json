@@ -2978,5 +2978,203 @@
             "Tax",
             "Consulting"
         ]
+    },
+    {
+        "company_name": "Sydney Water",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "12 weeks (December to February)",
+        "open_close_dates": "Closes mid-August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Water Corporation",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Perth"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "12 weeks (Late November to mid-February)",
+        "open_close_dates": "Closes late June",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Software Engineering"
+        ]
+    },
+    {
+        "company_name": "Snowy Hydro",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Cooma",
+            "Sydney",
+            "Adelaide"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "12 weeks (December to February)",
+        "open_close_dates": "Closes late August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Engineering"
+        ]
+    },
+    {
+        "company_name": "EnergyAustralia",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "Mid-November to February",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Cochlear",
+        "internship_type": "Summer Intern Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Healthcare & Pharmaceuticals",
+        "program_dates": "12 weeks (Late November to mid-February)",
+        "open_close_dates": "Closes early August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Software Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "ResMed",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Healthcare & Pharmaceuticals",
+        "program_dates": "12 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Accepts international students (case-by-case)",
+        "roles": [
+            "Software Engineering",
+            "Engineering",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Stryker",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney",
+            "Brisbane"
+        ],
+        "category": "Healthcare & Pharmaceuticals",
+        "program_dates": "10 to 12 weeks (Mid-November to February)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Corporate Functions",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Nine Entertainment",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Media, Broadcasting & Communications",
+        "program_dates": "6 to 8 weeks (January to February)",
+        "open_close_dates": "September to October",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Digital & Content Production",
+            "Corporate Functions",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Foxtel Group",
+        "internship_type": "Summer Internship",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Media, Broadcasting & Communications",
+        "program_dates": "10 weeks (December to February)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Software Engineering",
+            "Data & Analytics",
+            "Digital & Content Production"
+        ]
+    },
+    {
+        "company_name": "Ford Australia",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Manufacturing & Automotive",
+        "program_dates": "12 weeks (Mid-November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Visy",
+        "internship_type": "Summer Vacation Program",
+        "location": [
+            "Melbourne",
+            "Sydney"
+        ],
+        "category": "Manufacturing & Packaging",
+        "program_dates": "10 to 12 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Boral",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Sydney",
+            "Brisbane",
+            "Melbourne"
+        ],
+        "category": "Manufacturing & Construction Materials",
+        "program_dates": "10 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Corporate Functions"
+        ]
     }
 ]
