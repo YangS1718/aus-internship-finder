@@ -28,6 +28,7 @@ const CATEGORY_MAP = {
   'Manufacturing & Automotive':        'Manufacturing',
   'Manufacturing & Construction Materials': 'Manufacturing',
   'Manufacturing & Packaging':         'Manufacturing',
+  'Manufacturing & Chemicals':         'Manufacturing',
   'Engineering & Infrastructure':      'Engineering',
   'Engineering & Property':            'Engineering',
   'Utilities & Renewables':            'Energy & Utilities',

@@ -3457,5 +3457,128 @@
             "Cyber Security",
             "Corporate Functions"
         ]
+    },
+    {
+        "company_name": "AGL Energy",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Melbourne",
+            "Sydney",
+            "Adelaide"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "12 weeks (Late November to February)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "APA Group",
+        "internship_type": "Summer Intern Program",
+        "location": [
+            "Brisbane",
+            "Sydney",
+            "Melbourne",
+            "Perth"
+        ],
+        "category": "Utilities & Renewables",
+        "program_dates": "12 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Corporate Functions",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Incitec Pivot Limited",
+        "internship_type": "Vacation Program",
+        "location": [
+            "Melbourne",
+            "Brisbane"
+        ],
+        "category": "Manufacturing & Chemicals",
+        "program_dates": "10 to 12 weeks (December to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Supply Chain",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Pfizer Australia",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney",
+            "Melbourne"
+        ],
+        "category": "Healthcare & Pharmaceuticals",
+        "program_dates": "10 to 12 weeks (Late November to February)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Corporate Functions",
+            "Data & Analytics",
+            "Science & Research"
+        ]
+    },
+    {
+        "company_name": "Sydney Airport",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Sydney"
+        ],
+        "category": "Aviation & Logistics",
+        "program_dates": "12 weeks (Late November to February)",
+        "open_close_dates": "July to August",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Data & Analytics",
+            "Corporate Functions"
+        ]
+    },
+    {
+        "company_name": "Melbourne Airport (APAC)",
+        "internship_type": "Summer Internship Program",
+        "location": [
+            "Melbourne"
+        ],
+        "category": "Aviation & Logistics",
+        "program_dates": "10 weeks (December to February)",
+        "open_close_dates": "August to September",
+        "visa_requirements": "Requires full working rights (no sponsorship)",
+        "roles": [
+            "Engineering",
+            "Corporate Functions",
+            "Data & Analytics"
+        ]
+    },
+    {
+        "company_name": "Services Australia",
+        "internship_type": "Summer Vacation Program",
+        "location": [
+            "Canberra",
+            "Brisbane",
+            "Melbourne",
+            "Sydney",
+            "Adelaide"
+        ],
+        "category": "Government & Public Sector",
+        "program_dates": "12 weeks (Late November to February)",
+        "open_close_dates": "May to July",
+        "visa_requirements": "Australian Citizen",
+        "roles": [
+            "Data & Analytics",
+            "Software Engineering",
+            "Corporate Functions"
+        ]
     }
 ]
