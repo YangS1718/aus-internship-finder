@@ -51,6 +51,26 @@ header h1 {
 header p {
   color: var(--text-muted);
   font-size: 1.1rem;
+  margin-bottom: 1.25rem;
+}
+
+.btn-ghost {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  letter-spacing: 0.01em;
+}
+
+.btn-ghost:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(56, 189, 248, 0.06);
 }
 
 /* Glassmorphism Card Style */
@@ -200,6 +220,27 @@ header p {
 
 .empty-state h3 {
   font-size: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   color: var(--text-main);
+}
+
+.empty-state p {
+  margin-bottom: 1.5rem;
+}
+
+.btn-accent {
+  display: inline-block;
+  padding: 0.65rem 1.75rem;
+  background: var(--accent-gradient);
+  color: var(--bg-color);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-accent:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(56, 189, 248, 0.35);
 }

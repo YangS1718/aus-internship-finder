@@ -2,6 +2,8 @@ import { useState, useMemo } from 'react';
 import './index.css';
 import programsData from './data/asset.json';
 
+const FEEDBACK_FORM_URL = 'https://tally.so/r/A7W0LB';
+
 function App() {
   const [filters, setFilters] = useState({
     location: '',
@@ -136,6 +138,15 @@ function App() {
       <header>
         <h1>Aus Internship Finder</h1>
         <p>Discover your next career opportunity with top Australian programs.</p>
+        <a
+          href={FEEDBACK_FORM_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn-ghost"
+          id="header-feedback-link"
+        >
+          + Add / Edit a Program
+        </a>
       </header>
 
       <div className="glass-panel search-form">
@@ -268,8 +279,17 @@ function App() {
           ))
         ) : (
           <div className="empty-state">
-            <h3>No programs found</h3>
-            <p>Try adjusting your filters to see more results.</p>
+            <h3>No programs match these filters</h3>
+            <p>Know one we missed?</p>
+            <a
+              href={FEEDBACK_FORM_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-accent"
+              id="empty-state-feedback-link"
+            >
+              Submit a Program
+            </a>
           </div>
         )}
       </div>
