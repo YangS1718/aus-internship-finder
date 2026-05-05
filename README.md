@@ -1,6 +1,7 @@
 # 🇦🇺 Aus Internship Finder
 
 A fast, filterable directory of structured internship programs at top Australian firms — built as a zero-cost static SPA.
+*Built using historical data, exact opening roles and dates may vary a little year by year.
 
 ## Features
 
