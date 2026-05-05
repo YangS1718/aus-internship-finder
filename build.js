@@ -18,12 +18,20 @@ const VALID_LOCATIONS = new Set([
 
 // Rationalise the long-tail categories into clean top-level groups
 const CATEGORY_MAP = {
-  'Corporate Finance & Healthcare':   'Corporate Finance',
-  'Corporate Finance & Infrastructure':'Corporate Finance',
-  'Corporate Finance & Strategy':     'Corporate Finance',
-  'Technology & Finance':             'Technology',
-  'Quantitative Trading & Tech':      'Quantitative Trading',
-  'Hedge Fund & Alternative Assets':  'Hedge Fund',
+  'Corporate Finance & Healthcare':    'Corporate Finance',
+  'Corporate Finance & Infrastructure':  'Corporate Finance',
+  'Corporate Finance & Strategy':      'Corporate Finance',
+  'Technology & Finance':              'Technology',
+  'Quantitative Trading & Tech':       'Quantitative Trading',
+  'Hedge Fund & Alternative Assets':   'Hedge Fund',
+  'Retail & Entertainment':            'Retail & FMCG',
+  'Manufacturing & Automotive':        'Manufacturing',
+  'Manufacturing & Construction Materials': 'Manufacturing',
+  'Manufacturing & Packaging':         'Manufacturing',
+  'Engineering & Infrastructure':      'Engineering',
+  'Engineering & Property':            'Engineering',
+  'Utilities & Renewables':            'Energy & Utilities',
+  'Mining & Energy':                   'Energy & Utilities',
 };
 
 const data = JSON.parse(fs.readFileSync('asset.json', 'utf8'));

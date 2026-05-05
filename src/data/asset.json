@@ -1496,7 +1496,7 @@
       "Brisbane",
       "Adelaide"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "10-12 weeks (November to February)",
     "open_close_dates": "June to July",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1519,7 +1519,7 @@
       "Brisbane",
       "Perth"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "Follows university calendar",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1546,7 +1546,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "April to May",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1566,7 +1566,7 @@
     "location": [
       "Perth"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "Opens August",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1587,7 +1587,7 @@
     "location": [
       "Perth"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1608,7 +1608,7 @@
       "Perth",
       "Brisbane"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "March to April",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1631,7 +1631,7 @@
       "Brisbane",
       "Perth"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1653,7 +1653,7 @@
       "Melbourne",
       "Brisbane"
     ],
-    "category": "Mining & Energy",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February (12 weeks)",
     "open_close_dates": "Closes mid-October",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1680,7 +1680,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1706,7 +1706,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February (12 weeks)",
     "open_close_dates": "Opens July",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1732,7 +1732,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July (Career Expos)",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1758,7 +1758,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1783,7 +1783,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -1808,7 +1808,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Infrastructure",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "Late April to early June",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1832,7 +1832,7 @@
       "Perth",
       "Sydney"
     ],
-    "category": "Engineering & Property",
+    "category": "Engineering",
     "program_dates": "Mid-November to February (12 weeks)",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1854,7 +1854,7 @@
       "Melbourne",
       "Brisbane"
     ],
-    "category": "Engineering & Property",
+    "category": "Engineering",
     "program_dates": "11-month part-time (February to December)",
     "open_close_dates": "Closes late August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -1876,7 +1876,7 @@
       "Melbourne",
       "Brisbane"
     ],
-    "category": "Engineering & Property",
+    "category": "Engineering",
     "program_dates": "Mid-November to February",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3642,7 +3642,7 @@
     "location": [
       "Sydney"
     ],
-    "category": "Utilities & Renewables",
+    "category": "Energy & Utilities",
     "program_dates": "12 weeks (December to February)",
     "open_close_dates": "Closes mid-August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3662,7 +3662,7 @@
     "location": [
       "Perth"
     ],
-    "category": "Utilities & Renewables",
+    "category": "Energy & Utilities",
     "program_dates": "12 weeks (Late November to mid-February)",
     "open_close_dates": "Closes late June",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3683,7 +3683,7 @@
       "Sydney",
       "Adelaide"
     ],
-    "category": "Utilities & Renewables",
+    "category": "Energy & Utilities",
     "program_dates": "12 weeks (December to February)",
     "open_close_dates": "Closes late August",
     "visa_requirements": "Accepts international students (case-by-case)",
@@ -3702,7 +3702,7 @@
       "Melbourne",
       "Sydney"
     ],
-    "category": "Utilities & Renewables",
+    "category": "Energy & Utilities",
     "program_dates": "Mid-November to February",
     "open_close_dates": "August to September",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3825,7 +3825,7 @@
     "location": [
       "Melbourne"
     ],
-    "category": "Manufacturing & Automotive",
+    "category": "Manufacturing",
     "program_dates": "12 weeks (Mid-November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3846,7 +3846,7 @@
       "Melbourne",
       "Sydney"
     ],
-    "category": "Manufacturing & Packaging",
+    "category": "Manufacturing",
     "program_dates": "10 to 12 weeks (Late November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3868,7 +3868,7 @@
       "Brisbane",
       "Melbourne"
     ],
-    "category": "Manufacturing & Construction Materials",
+    "category": "Manufacturing",
     "program_dates": "10 weeks (Late November to February)",
     "open_close_dates": "July to August",
     "visa_requirements": "Requires full working rights (no sponsorship)",
@@ -3878,6 +3878,349 @@
     ],
     "roles": [
       "Engineering",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Crown Resorts",
+    "internship_type": "Summer Internship",
+    "location": [
+      "Melbourne",
+      "Sydney",
+      "Perth"
+    ],
+    "category": "Gaming & Entertainment",
+    "program_dates": "10 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Endeavour Group",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "category": "Retail & FMCG",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "August to September",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "AstraZeneca Australia",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Sydney"
+    ],
+    "category": "Healthcare & Pharmaceuticals",
+    "program_dates": "10 to 12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Science & Research"
+    ]
+  },
+  {
+    "company_name": "GSK Australia",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Melbourne"
+    ],
+    "category": "Healthcare & Pharmaceuticals",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Supply Chain"
+    ]
+  },
+  {
+    "company_name": "Boeing Australia",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Brisbane",
+      "Melbourne",
+      "Adelaide"
+    ],
+    "category": "Aerospace & Defense",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Australian Citizen (Security Clearance Required)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "Security Clearance Required"
+    ],
+    "roles": [
+      "Engineering",
+      "Software Engineering",
+      "Data & Analytics",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Thales Australia",
+    "internship_type": "Summer Internship",
+    "location": [
+      "Sydney",
+      "Melbourne",
+      "Adelaide"
+    ],
+    "category": "Aerospace & Defense",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Australian Citizen (Security Clearance Required)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "Security Clearance Required"
+    ],
+    "roles": [
+      "Engineering",
+      "Software Engineering",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Saab Australia",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Adelaide"
+    ],
+    "category": "Aerospace & Defense",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Australian Citizen (Security Clearance Required)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "Security Clearance Required"
+    ],
+    "roles": [
+      "Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Virgin Australia",
+    "internship_type": "Summer Internship",
+    "location": [
+      "Brisbane"
+    ],
+    "category": "Aviation & Logistics",
+    "program_dates": "10 weeks (December to February)",
+    "open_close_dates": "August to September",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Engineering",
+      "Data & Analytics",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Australia Post",
+    "internship_type": "Summer Intern Program",
+    "location": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "category": "Aviation & Logistics",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Software Engineering",
+      "Corporate Functions",
+      "Supply Chain"
+    ]
+  },
+  {
+    "company_name": "Aurizon",
+    "internship_type": "Vacation Program",
+    "location": [
+      "Brisbane",
+      "Perth"
+    ],
+    "category": "Aviation & Logistics",
+    "program_dates": "10 to 12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Engineering",
+      "Data & Analytics",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Kmart Group",
+    "internship_type": "Summer Internship",
+    "location": [
+      "Melbourne"
+    ],
+    "category": "Retail & FMCG",
+    "program_dates": "10 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Software Engineering",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Lion",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "category": "Retail & FMCG",
+    "program_dates": "10 to 12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Supply Chain",
+      "Corporate Functions"
+    ]
+  },
+  {
+    "company_name": "Charter Hall",
+    "internship_type": "Summer Internship",
+    "location": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "category": "Engineering",
+    "program_dates": "10 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Property & Investments"
+    ]
+  },
+  {
+    "company_name": "Zurich Australia",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "category": "Insurance",
+    "program_dates": "10 to 12 weeks (Late November to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Requires full working rights (no sponsorship)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "no sponsorship"
+    ],
+    "roles": [
+      "Data & Analytics",
+      "Corporate Functions",
+      "Risk & Compliance"
+    ]
+  },
+  {
+    "company_name": "CSIRO",
+    "internship_type": "Undergraduate Vacation Scholarship",
+    "location": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth",
+      "Adelaide"
+    ],
+    "category": "Government & Public Sector",
+    "program_dates": "8 to 12 weeks (December to February)",
+    "open_close_dates": "July to August",
+    "visa_requirements": "Australian Citizen or Permanent Resident preferred",
+    "visa_status": "domestic_only",
+    "visa_tags": [],
+    "roles": [
+      "Science & Research",
+      "Data & Analytics",
+      "Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Australian Signals Directorate (ASD)",
+    "internship_type": "Summer Internship Program",
+    "location": [
+      "Canberra",
+      "Brisbane",
+      "Melbourne",
+      "Perth"
+    ],
+    "category": "Government & Public Sector",
+    "program_dates": "12 weeks (Late November to February)",
+    "open_close_dates": "March to May (Early Intake due to clearances)",
+    "visa_requirements": "Australian Citizen (Security Clearance Required)",
+    "visa_status": "domestic_only",
+    "visa_tags": [
+      "Security Clearance Required"
+    ],
+    "roles": [
+      "Software Engineering",
+      "Data & Analytics",
+      "Cyber Security",
       "Corporate Functions"
     ]
   }
