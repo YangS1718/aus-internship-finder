@@ -38,6 +38,7 @@ const CATEGORY_MAP = {
 // Rationalise long-tail roles into cleaner groups
 const ROLE_MAP = {
   'Business Development': 'Corporate Functions',
+  'Property & Investments': 'Corporate Finance',
 };
 
 const data = JSON.parse(fs.readFileSync('asset.json', 'utf8'));
