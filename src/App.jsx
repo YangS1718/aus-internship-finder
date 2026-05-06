@@ -5,6 +5,7 @@ import programsData from './data/asset.json';
 const FEEDBACK_FORM_URL = 'https://tally.so/r/A7W0LB';
 
 function App() {
+  const [searchQuery, setSearchQuery] = useState('');
   const [filters, setFilters] = useState({
     location: '',
     industry: '',
@@ -97,6 +98,9 @@ function App() {
     };
 
     return programsData.filter(program => {
+      // Search match
+      const matchSearch = !searchQuery || program.company_name.toLowerCase().includes(searchQuery.toLowerCase());
+
       // Location match
       const matchLocation = !filters.location || program.location.includes(filters.location) || program.location.includes('Australia-wide');
       
@@ -129,9 +133,9 @@ function App() {
         }
       }
 
-      return matchLocation && matchIndustry && matchRole && matchVisa && matchTiming;
+      return matchSearch && matchLocation && matchIndustry && matchRole && matchVisa && matchTiming;
     });
-  }, [filters]);
+  }, [filters, searchQuery]);
 
   return (
     <div className="container">
@@ -150,6 +154,18 @@ function App() {
       </header>
 
       <div className="glass-panel search-form">
+        <div className="form-group" style={{ gridColumn: '1 / -1' }}>
+          <label htmlFor="search">Search Company</label>
+          <input 
+            type="text" 
+            id="search" 
+            className="form-control" 
+            placeholder="e.g. Atlassian, Macquarie Group, Optiver..." 
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+        </div>
+
         <div className="form-group">
           <label htmlFor="industry">Industry</label>
           <select 
