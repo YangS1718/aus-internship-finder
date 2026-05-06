@@ -1,12 +1,13 @@
 # 🇦🇺 Aus Internship Finder
 
-A fast, filterable directory of structured internship programs at top Australian firms — built as a zero-cost static SPA.
+A fast, filterable directory of structured internship programs at top Australian firms.
 *Built using historical data, exact opening roles and dates may vary a little year by year.
 
 ## Features
 
-- **169 programs** across Finance, Tech, Consulting, Mining, Government and more
+- **200+ programs** across Finance, Tech, Consulting, Mining, Government and more
 - Filter by **Industry**, **Role / Stream**, **Location**, **Visa Status**, and **Application Timing**
+- Search by **Company Name**
 - Timing filter is calendar-aware — "Opening Now" and "Opening in Next 3 Months" compute dynamically
 - Data verified against official company career pages and graduate platforms (Prosple, GradConnection)
 
