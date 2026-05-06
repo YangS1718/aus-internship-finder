@@ -35,6 +35,11 @@ const CATEGORY_MAP = {
   'Mining & Energy':                   'Energy & Utilities',
 };
 
+// Rationalise long-tail roles into cleaner groups
+const ROLE_MAP = {
+  'Business Development': 'Corporate Functions',
+};
+
 const data = JSON.parse(fs.readFileSync('asset.json', 'utf8'));
 
 const processed = data.map(item => {
@@ -70,7 +75,7 @@ const processed = data.map(item => {
     visa_requirements: item.visa_requirements,
     visa_status,
     visa_tags,
-    roles:             item.roles ?? [],
+    roles:             [...new Set((item.roles ?? []).map(r => ROLE_MAP[r] ?? r))],
   };
 });
 
