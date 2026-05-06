@@ -123,6 +123,14 @@ header p {
 }
 
 /* Grid & Cards */
+.results-count {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  padding-left: 0.5rem;
+}
+
 .results-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

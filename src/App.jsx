@@ -246,6 +246,10 @@ function App() {
         </div>
       </div>
 
+      <div className="results-count">
+        Showing {filteredPrograms.length} {filteredPrograms.length === 1 ? 'program' : 'programs'}
+      </div>
+
       <div className="results-grid">
         {filteredPrograms.length > 0 ? (
           filteredPrograms.map((program, idx) => (
