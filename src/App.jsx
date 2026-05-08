@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import './index.css';
 import programsData from './data/asset.json';
 
@@ -316,6 +317,7 @@ function App() {
           </div>
         )}
       </div>
+      <Analytics />
     </div>
   );
 }
